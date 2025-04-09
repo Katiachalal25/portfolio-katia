@@ -1,0 +1,12 @@
+nav li{
+    list-style: none;
+    text-transform:capitalize
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    /* gap: 2em; */
+}
+header{
+    background-color: aqua;
+}

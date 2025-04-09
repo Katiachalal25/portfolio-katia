@@ -1,0 +1,15 @@
+.item-list {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+.item-list>div {
+    flex-basis: 30%;
+}
+
+.item-list+button a {
+    color: white;
+    text-decoration: none;
+}

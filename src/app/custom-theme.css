@@ -1,0 +1,70 @@
+/* Personnalisation du thème Bootstrap - Changer le bleu en rose */
+
+:root {
+  --bs-primary: #e83e8c;
+  --bs-primary-rgb: 232, 62, 140;
+  --bs-primary-bg-subtle: #fceff4;
+  --bs-primary-border-subtle: #f8d7e5;
+  --bs-link-color: #e83e8c;
+  --bs-link-hover-color: #d5307d;
+  --bs-btn-hover-border-color-rgb: 232, 62, 140;
+}
+
+/* Remplacer les classes Bootstrap standard */
+.text-primary {
+  color: var(--bs-primary) !important;
+}
+
+.bg-primary {
+  background-color: var(--bs-primary) !important;
+}
+
+.btn-primary {
+  background-color: var(--bs-primary) !important;
+  border-color: var(--bs-primary) !important;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active {
+  background-color: #d5307d !important;
+  border-color: #c02c73 !important;
+}
+
+.btn-outline-primary {
+  color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--bs-primary);
+  border-color: var(--bs-primary);
+}
+
+.border-primary {
+  border-color: var(--bs-primary) !important;
+}
+
+/* Personnalisation de la barre de navigation */
+.navbar .nav-link.active, 
+.navbar .nav-link:hover {
+  color: var(--bs-primary) !important;
+}
+
+/* Personnalisation des liens */
+a {
+  color: var(--bs-primary);
+}
+
+a:hover {
+  color: #d5307d;
+}
+
+/* Personnalisation des progressbars */
+.progress-bar {
+  background-color: var(--bs-primary);
+}
+
+/* Remplacer les icônes de notation étoilées */
+.text-warning .bi-star-fill,
+.text-warning .bi-star {
+  color: var(--bs-primary) !important;
+} 
