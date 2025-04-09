@@ -69,58 +69,57 @@ This project uses the following technologies:
 - **React.js**: JavaScript library for building user interfaces.
 - **Redux**: Used for state management (login, registration, testimonials).
 - **CSS**: For layout and design styling.
- 
 
- ##  Site Preview
+- ---------------
+## Site Preview
 
 ### Console
 
 ![Console](./public/screenshots/console.png)
 
-
 ### Home Page
 
-![Home](public\screenshots\acceuil.png)
+![Home](./public/screenshots/acceuil.png)
 
 ### Registration Page
 
-![Registration](public\screenshots\inscription.png)
+![Registration](./public/screenshots/inscription.png)
 
 ### Login Page
 
-![Login](public\screenshots\connexion.png)
+![Login](./public/screenshots/connexion.png)
 
 ### Testimonial 1
 
-![Testimonial 1](public\screenshots\temoignage1.png)
+![Testimonial 1](./public/screenshots/temoignage1.png)
 
 ### Testimonial 2
 
-![Testimonial 2](public\screenshots\temoignage2.png)
+![Testimonial 2](./public/screenshots/temoignage2.png)
 
 ### Project 1
 
-![Project 1](public\screenshots\projet1.png)
+![Project 1](./public/screenshots/projet1.png)
 
 ### Project 2
 
-![Project 2](public\screenshots\projet2.png)
+![Project 2](./public/screenshots/projet2.png)
 
 ### Projects Section
 
-![Projects](public\screenshots\projets.png)
+![Projects](./public/screenshots/projets.png)
 
 ### Reviews
 
-![Reviews](public\screenshots\avis.png)
+![Reviews](./public/screenshots/avis.png)
 
 ### My Services
 
-![My Services](public\screenshots\messervices.png)
+![My Services](./public/screenshots/messervices.png)
 
 ### About
 
-![About](public\screenshots\apropos.png)
+![About](./public/screenshots/apropos.png)
 
 
 ---
