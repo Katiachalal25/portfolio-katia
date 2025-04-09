@@ -75,7 +75,7 @@ This project uses the following technologies:
 
 ### Console
 
-![Console](public\screenshots\console.png)
+![Console](./public/screenshots/console.png)
 
 
 ### Home Page
